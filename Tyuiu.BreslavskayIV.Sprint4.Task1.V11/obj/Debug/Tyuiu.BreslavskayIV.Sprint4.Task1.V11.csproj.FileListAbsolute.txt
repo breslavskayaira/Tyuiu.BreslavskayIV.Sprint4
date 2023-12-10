@@ -1,0 +1,11 @@
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayIV.Sprint4\Tyuiu.BreslavskayIV.Sprint4.Task1.V11\bin\Debug\Tyuiu.BreslavskayIV.Sprint4.Task1.V11.exe.config
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayIV.Sprint4\Tyuiu.BreslavskayIV.Sprint4.Task1.V11\bin\Debug\Tyuiu.BreslavskayIV.Sprint4.Task1.V11.exe
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayIV.Sprint4\Tyuiu.BreslavskayIV.Sprint4.Task1.V11\bin\Debug\Tyuiu.BreslavskayIV.Sprint4.Task1.V11.pdb
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayIV.Sprint4\Tyuiu.BreslavskayIV.Sprint4.Task1.V11\obj\Debug\Tyuiu.BreslavskayIV.Sprint4.Task1.V11.csproj.AssemblyReference.cache
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayIV.Sprint4\Tyuiu.BreslavskayIV.Sprint4.Task1.V11\obj\Debug\Tyuiu.BreslavskayIV.Sprint4.Task1.V11.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayIV.Sprint4\Tyuiu.BreslavskayIV.Sprint4.Task1.V11\obj\Debug\Tyuiu.BreslavskayIV.Sprint4.Task1.V11.exe
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayIV.Sprint4\Tyuiu.BreslavskayIV.Sprint4.Task1.V11\obj\Debug\Tyuiu.BreslavskayIV.Sprint4.Task1.V11.pdb
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayIV.Sprint4\Tyuiu.BreslavskayIV.Sprint4.Task1.V11\bin\Debug\Tyuiu.BreslavskayIV.Sprint4.Task1.V11.Lib.dll
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayIV.Sprint4\Tyuiu.BreslavskayIV.Sprint4.Task1.V11\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayIV.Sprint4\Tyuiu.BreslavskayIV.Sprint4.Task1.V11\bin\Debug\Tyuiu.BreslavskayIV.Sprint4.Task1.V11.Lib.pdb
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayIV.Sprint4\Tyuiu.BreslavskayIV.Sprint4.Task1.V11\obj\Debug\Tyuiu.BreslavskayIV.Sprint4.Task1.V11.csproj.CopyComplete
