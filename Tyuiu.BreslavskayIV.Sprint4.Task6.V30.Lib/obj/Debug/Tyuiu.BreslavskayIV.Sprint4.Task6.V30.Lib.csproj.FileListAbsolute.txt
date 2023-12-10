@@ -1,0 +1,8 @@
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayIV.Sprint4\Tyuiu.BreslavskayIV.Sprint4.Task6.V30.Lib\bin\Debug\Tyuiu.BreslavskayIV.Sprint4.Task6.V30.Lib.dll
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayIV.Sprint4\Tyuiu.BreslavskayIV.Sprint4.Task6.V30.Lib\bin\Debug\Tyuiu.BreslavskayIV.Sprint4.Task6.V30.Lib.pdb
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayIV.Sprint4\Tyuiu.BreslavskayIV.Sprint4.Task6.V30.Lib\obj\Debug\Tyuiu.BreslavskayIV.Sprint4.Task6.V30.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayIV.Sprint4\Tyuiu.BreslavskayIV.Sprint4.Task6.V30.Lib\obj\Debug\Tyuiu.BreslavskayIV.Sprint4.Task6.V30.Lib.dll
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayIV.Sprint4\Tyuiu.BreslavskayIV.Sprint4.Task6.V30.Lib\obj\Debug\Tyuiu.BreslavskayIV.Sprint4.Task6.V30.Lib.pdb
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayIV.Sprint4\Tyuiu.BreslavskayIV.Sprint4.Task6.V30.Lib\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayIV.Sprint4\Tyuiu.BreslavskayIV.Sprint4.Task6.V30.Lib\obj\Debug\Tyuiu.BreslavskayIV.Sprint4.Task6.V30.Lib.csproj.AssemblyReference.cache
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayIV.Sprint4\Tyuiu.BreslavskayIV.Sprint4.Task6.V30.Lib\obj\Debug\Tyuiu.BreslavskayIV.Sprint4.Task6.V30.Lib.csproj.CopyComplete
